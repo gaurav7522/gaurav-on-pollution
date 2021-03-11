@@ -14,13 +14,6 @@
 	 </div>
 	<div class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
-      <li><a href="home.php" class="image_navbar"></a></li>
-	 <li><a href="#"><font size=5" color="yellow"><b> Air Pollution Monitoring System</b></font></a></li>
-      <li><a href="home.php">Home</a></li>
-     <!-- <li><a href="team.html">The Team</a></li>
-	  <li><a href="export.html">Data</a></li>    
-      <li><a href="project.html">The Project</a></li>  -->
-	  <li class="active"><a href="#hiw" rel="m_PageScroll2id">How It Works</a></li>
 	  </ul>
 	<!--  <ul class="nav navbar-nav navbar-right visible-lg">
 	  <li>
