@@ -279,17 +279,5 @@ Together, these pollutants paint a comprehensive picture of air quality impacts 
            Please contact us at <a href="http://iitism.ac.in/">IIT-ISM Dhanbad</a> with any questions. 
   </p>
 </div>
-
-<div class="col-md-12 line-break"></div>
-<div class="col-md-12 line-break-border"></div>
-<div class="col-md-12 line-break"></div>
-
-</div>
-<!--</div>
-</div>
-</div>  -->
-
-</div>
-</div>
 </body>
 </html>
