@@ -1,176 +1,303 @@
-# gaurav-on-pollution
-for pollution
-<html>
-  <head>
-    <title>Air pollution in New Delhi</title>
-  </head>
-  <body>
-    
-    <h1>Air pollution in New Delhi</h1>
-    
-    <p>Air pollution occurs when harmful substances including particulates and biological molecules are introduced into Earth's atmosphere. It may cause diseases, allergies or death of humans; it may also cause harm to other living organisms such as animals and food crops, and may damage the natural or built environment. Human activity and natural processes can both generate air pollution.</p>
-
-<p>Indoor air pollution and poor urban air quality are listed as two of the world's worst toxic pollution problems in the 2008 Blacksmith Institute World's Worst Polluted Places report. According to the 2014 World Health Organization report, air pollution in 2012 caused the deaths of around 7 million people worldwide</p>
-    
-    <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img class="center" src="https://s3-eu-west-1.amazonaws.com/storage.publisherplus.ie/media.nova.ie/uploads/2017/11/06125048/pollution.jpg" style="height:505px" align="middle">
-  <div class="text">Vehicles emmiting harmful Carbon Monooxide, a major air pollutant</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img class="center" src="https://ourworldindata.org/wp-content/uploads/2017/06/1024px-Widnes_Smoke-750x424.jpg" style="height:505px" align="middle">
-  <div class="text">Poisonous smoke containing oxides of nitrogen and sulphur being given out by an industrial chimney</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img class="center" src="http://www.thehindu.com/news/cities/Delhi/article20046361.ece/ALTERNATES/LANDSCAPE_615/STANDALONEFILTERMASK" style="height:505px" align="middle">
-  <div class="text">People protecting themselves from smoke with masks during the Delhi smog</div>
-</div>
-
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-</div>
-    
-    <hr>    
-    <div class="index">
-      
-      Contents:
-      <ul>
-        <li><a class="links" href="#coap">Causes of air polution</a></li>
-        <li><a class="links" href="#apldtdf">Air pollution levels due to different factors</a></li>
-        <li><a class="links" href="#eoap">Effects of air pollution</a></li>
-        <li><a class="links" href="#sind">Smog in New Delhi</a></li>
-        <li><a class="links" href="#strap">Solutions to reduce air pollution</a></li>
-      </ul>
-    </div>
-    <hr>
-    
-    <a name="coap"><h2>Causes of air polution</h2></a>
-    <ol>
-      
-      <h3><li>Burning of Fossil Fuels:</h3> 
-      <p>Sulfur dioxide emitted from the combustion of fossil fuels like coal, petroleum and other factory combustibles is one the major cause of air pollution. Pollution emitting from vehicles including trucks, jeeps, cars, trains, airplanes cause immense amount of pollution. Carbon Monooxide caused by improper or incomplete combustion and generally emitted from vehicles is a major pollutant along with Nitrogen Oxides, that is produced from both natural and man made processes.</p></li>
-    
-      <h3><li>Agricultural activities:</h3> 
-      <p>Ammonia is a very common by product from agriculture related activities and is one of the most hazardous gases in the atmosphere. Use of insecticides, pesticides and fertilizers in agricultural activities has grown quite a lot. They emit harmful chemicals into the air and can also cause water pollution.</p></li>
+<html lang="en">
+<head>
+  <title>project work</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   
-      <h3><li>Exhaust from factories and industries:</h3> 
-      <p>Manufacturing industries release large amount of carbon monoxide, hydrocarbons, organic compounds, and chemicals into the air thereby depleting the quality of air. Manufacturing industries can be found at every corner of the earth and there is no area that has not been affected by it. Petroleum refineries also release hydrocarbons and various other chemicals that pollute the air and also cause land pollution.</p></li>
+  <link href="HowItWorks.css" rel="stylesheet">
+    <!--IIT Logo Style Link-->
+    <link rel="stylesheet" href="Logo.css">
+</head>
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+ <div class="container">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	  <span class="sr-only">Toggle navigation</span>
+	  <span class="icon-bar"></span>
+	  </button>
+	 </div>
+	<div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+      <li><a href="home.php" class="image_navbar"></a></li>
+	 <li><a href="#"><font size=5" color="yellow"><b> Air Pollution Monitoring System</b></font></a></li>
+      <li><a href="home.php">Home</a></li>
+     <!-- <li><a href="team.html">The Team</a></li>
+	  <li><a href="export.html">Data</a></li>    
+      <li><a href="project.html">The Project</a></li>  -->
+	  <li class="active"><a href="#hiw" rel="m_PageScroll2id">How It Works</a></li>
+	  </ul>
+	<!--  <ul class="nav navbar-nav navbar-right visible-lg">
+	  <li>
+	      <a href="http://iitism.ac.in/index.php/home/"><div id="IIT(ISM)-logo-small" class ="visible-lg"></a>
+                       <!-- <a style="width:5px; height:5px;"href="http://iitism.ac.in/index.php/home/"><img src="C:\Users\Abhishek Upadhyay\Desktop\bootstrap\ismlogo.png" id="ismlogo"/></a>
+                 
+         <!--   <div id="divider-large-reversed"></div>
+            <a href="http://csesociety.in/"><div id="CSES-logo-web-large"></div></a>  
+          </div>
+        </li>
+      </ul>      -->
+    </div>
+  </div>
+  </div>
+  <!-- <div id="logoContainer">
+                        <a style="width:auto; height:10px;"href="http://iitism.ac.in/index.php/home/"><img src="C:\Users\Abhishek Upadhyay\Desktop\bootstrap\ismlogo.png" id="ismlogo"/></a>
+                    </div>       -->
 
-      <h3><li>Mining Operations:</h3> 
-      <p>Mining is a process wherein minerals below the earth are extracted using large equipments. During the process dust and chemicals are released in the air causing massive air pollution. This is one of the reason which is responsible for the deteriorating health conditions of workers and nearby residents.</p></li>
+<!-- Photo Header -->
+<div class="container">
+ <div class="jumbotron">
 
-      <h3><li>Indoor air pollution:</h3> 
-      <p>Household cleaning products, painting supplies emit toxic chemicals in the air and cause air pollution. Have you ever noticed that once you paint walls of your house, it creates some sort of smell which makes it literally impossible for you to breathe.</p></li>
-    </ol>
+   <!-- Photo Header -->
+<div class="container" style="padding-top:120px">
+  <div class="col-md-12 col-sm-12 team-image-display">
+    <img id="hiw" src="howitworks_new.jpg">
+  </div>
+ 
+  </div>
+  <!-- line divider -->
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break-border"></div>
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break"></div>
+	
+<!-- Information about the System --> 
 
-<hr>
+<div class="row featurette" style="padding-left: 20px; padding-right: 20px; padding-top: 110px">
+  <h2 class="featurette-heading">
+    <font color="#1560ac">What does each node consist of?</font> 
+  </h2>
+  <br>
+  <p class="lead">
+   Each node consists of several parts:
+ </p>
+   <ul>
+    <li class="lead">A Dylos system</li>
+    <p>Every node has a dylos that consists of a small computer fan, a laser system that measures particulate matter and a screen that displays the results. This original setup was modified to also channel air over a RH/Temp Sensor and through a 3D printed infrastructure that houses the four alphasense sensors.</p>
+    <li class="lead">alphasense sensors</li> 
+    <p>
+      Alphasense sensors are electrochemical sensors that measure the concentration of pollutants. Our sensors include CO, NO and NO<sub>2</sub>  sensors along with a RH Temperature sensor. 
+    </p>
+    <li class="lead">printed circuit boards</li>
+    <p>
+      The PCB, or printed circuit board, is a mini computer that serves two purposes. It distributed power to various components of the node and communicates the data collected by the alphasense sensors and RH/Temperature sensor to the ADC board.
+    </p>
+	   <li class="lead">an analog to digital converter</li>
+    <p>
+       The ADC, or analog to Digital converter, received analog input and then converts it into digital data that the Raspberry Pi can read.
+     </p>
 
-    <a name="apldtdf"><h2>Air pollution levels due to different factors</h2></a>
-
-<table>
-  <tr>
-    <th>Factors</th>
-    <th>Examples</th>
-    <th>Percentage</th>
-  </tr>
-  <tr>
-    <td>Domestic</td>
-    <td>Smoke given out during cooking</td>
-    <td>6%</td>
-  </tr>
-  <tr>
-    <td>Industry</td>
-    <td>Poisonous oxides of sulphur and nitrogen</td>
-    <td>37%</td>
-  </tr>
-  <tr>
-    <td>Vehicles</td>
-    <td>Exhaust</td>
-    <td>25%</td>
-  </tr>
-  <tr>
-    <td>Open Burn</td>
-    <td>Burning of wastes in a landfill</td>
-    <td>10%</td>
-  </tr>
-  <tr>
-    <td>Construction</td>
-    <td>PM10 (Particulate matter with diameter less than 10 microns)</td>
-    <td>9%</td>
-  </tr>
-  <tr>
-    <td>Road Dust</td>
-    <td>Dust flying from the road which causes smog</td>
-    <td>13%</td>
-  </tr>
-</table>
-
-<hr>
-
-    <a name="eoap"><h2>Effects of air pollution</h2></a>
-    <ol>
-      
-      <h3><li>Respiratory and heart problems:</h3> 
-      <p>The effects of Air pollution are alarming. They are known to create several respiratory and heart conditions along with Cancer, among other threats to the body. Several millions are known to have died due to direct or indirect effects of Air pollution. Children in areas exposed to air pollutants are said to commonly suffer from pneumonia and asthma.</p></li>
-
-<h3><li> Global warming:</h3> 
-      <p>Another direct effect is the immediate alterations that the world is witnessing due to Global warming. With increased temperatures world wide, increase in sea levels and melting of ice from colder regions and icebergs, displacement and loss of habitat have already signaled an impending disaster if actions for preservation and normalization aren’t undertaken soon.</p></li>
-
-<h3><li>Acid Rain:</h3> 
-      <p> Harmful gases like nitrogen oxides and sulfur oxides are released into the atmosphere during the burning of fossil fuels. When it rains, the water droplets combines with these air pollutants, becomes acidic and then falls on the ground in the form of acid rain. Acid rain can cause great damage to human, animals and crops.</p></li>
-
-<h3><li>Eutrophication:</h3> 
-      <p> Eutrophication is a condition where high amount of nitrogen present in some pollutants gets developed on sea’s surface and turns itself into algae and and adversely affect fish, plants and animal species. The green colored algae that is present on lakes and ponds is due to presence of this chemical only.This is also known as Algal Bloom</p></li>
-
-<h3><li>Effect on Wildlife:</h3> 
-      <p>Just like humans, animals also face some devastating affects of air pollution. Toxic chemicals present in the air can force wildlife species to move to new place and change their habitat. The toxic pollutants deposit over the surface of the water and can also affect sea animals.</p></li>
-
-<h3><li>Depletion of Ozone Layer:</h3> 
-      <p>Ozone exists in earth’s stratosphere and is responsible for protecting humans from harmful ultraviolet (UV) rays. Earth’s ozone layer is depleting due to the presence of chlorofluorocarbons, hydro chlorofluorocarbons in the atmosphere. As ozone layer will go thin, it will emit harmful rays back on earth and can cause skin and eye related problems. UV rays also have the capability to affect crops.</p></li>
-    </ol>
-
-<hr>
-
-<a name="sind"><h2>Smog in New Delhi</h2></a>
-
-<h3>What is Smog?</h3>
-<p>Smog is fog or haze intensified by smoke or other atmospheric pollutants. Smog in Delhi is an ongoing severe air-pollution event in New Delhi and adjoining areas in the National Capital Territory of India. Air pollution at this time peaked on both PM 2.5 and PM 10 levels. It has been reported as one of the worst levels of air quality in Delhi since 1999.</p>
-
-<h3>Incidents:</h3>
-<ul>
-<li>On 8 Nov 2017 low visibility has resulted in accidents across the city, notably a 24 vehicle pile-up on the Yamuna Expressway.</li>
-<li>During the second day of third test of Sri Lankan cricket team in India in 2017-18 at Delhi, smog forced Sri Lanka cricketers to stop play and wear anti-pollution masks. Cricketer Lahiru Gamage reported to have shortness of breath. Nic Pothas, coach of Sri Lankan cricket team, reported that cricketer Suranga Lakmal had vomited regularly due to severe pollution effect on the Delhi ground. There was a haltage of play between 12:32 pm to 12:49 pm.</li>
+    <li class="lead">a raspberry pi</li> 
+    <p>
+          The Raspberry Pi receives digital data from the ADC board through the ribbon cable. Ultimately, this information is transferred wirelessly to a database. 
+</p>
 </ul>
-
-<hr>
-
-    <a name="strap"><h2>Solutions to reduce air pollution</h2></a>
-    <ol>
-      <h3><li>Use public mode of transportation:</h3> 
-      <p>Encourage people to use more and more public modes of transportation to reduce pollution. Also, try to make use of car pooling. If you and your colleagues come from the same locality and have same timings you can explore this option to save energy and money.</p></li>
-      <h3><li>Conserve energy:</h3> 
-      <p>Switch off fans and lights when you are going out. Large amount of fossil fuels are burnt to produce electricity. You can save the environment from degradation by reducing the amount of fossil fuels to be burned.</p></li>
-      <h3><li>Understand the concept of Reduce, Reuse and Recycle:</h3> 
-      <p>Do not throw away items that are of no use to you. In-fact reuse them for some other purpose. For e.g. you can use old jars to store cereals or pulses.</p></li>
-      <h3><li>Emphasis on clean energy resources:</h3> 
-      <p>Clean energy technologies like solar, wind and geothermal are on high these days. Governments of various countries have been providing grants to consumers who are interested in installing solar panels for their home. This will go a long way to curb air pollution.</p></li>
-      <h3><li>Use energy efficient devices:</h3> 
-      <p>CFL lights consume less electricity as against their counterparts. They live longer, consume less electricity, lower electricity bills and also help you to reduce pollution by consuming less energy.There is a rise in the series of innovations and experiments aimed at alternate and unconventional options to reduce pollutants.</p></li>
-    </ol>
-
-<div class="footer">
-  Winter vacation project<br><br>
-  Done by: S.Monish<br>
-  9B  
 </div>
-  </body>
+
+<br><br>
+<div>
+  <h3 style="text-align: left">
+  <font color="#1560ac">A 3D Visualization of the Node</font></h3>
+</div>
+<div>
+  <p class="lead">
+ Our sensors include CO, NO and NO<sub>2</sub> sensors along with a RH Temperature sensor. 
+  This 3D visualization let's you see what is inside each node's casing. It represents the Dylos particle sensor, the alphasense sensors, the Raspberry Pi, and the electronic boards. Feel free to rotate and zoom to get a better look!
+</p>
+</div>
+<!-- line divider -->
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break-border"></div>
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break"></div>
+	<!-- Pollutants Section -->
+<div class="row featurette" style="padding-left: 20px; padding-right: 20px; padding-top: 80px">
+  <h2 class="featurette-heading">
+    <span class="text-muted">
+	<font color="#1560ac">What will we measure?</font></span>
+  </h2>
+  <br>
+  <p class="lead">
+We are measuring five pollutants: nitric oxide, nitrogen dioxide, carbon monoxide, ozone, and particulate matter. The NOx group (nitric oxide and nitrogen dioxide) is emitted from automobiles, power plants, and turbines. Carbon monoxide comes from automobile exhaust and burning fuel. Particulate matter is the result of a wide range of manmade and natural sources, while ozone is the result of reactions between chemicals already in our air.
+Together, these pollutants paint a comprehensive picture of air quality impacts from the interaction of human activity with natural processes.
+
+  </p>
+</div>
+	<!-- Pollutant Descriptions -->
+
+<!-- POLLUTANTS SECTIONN -->
+
+<div id="pollutants"></div>
+<hr>
+<br><br>
+<!-- first row of pollutants -->
+
+<!--CARBON MONOXIDE -->
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+   <div class="thumbnail">
+    <img src="CO.png">
+    <h3>Carbon Monoxide</h3>
+    <p>
+     <font size="2"> CO is an odorless, colorless gas that is highly toxic in when encountered in high concentrations! The main contribution of CO is vehicle exhaust but other sources include fuel combustion, fires, and volcanoes. Harmful health effects of CO occur when it enters the bloodstream through the lungs and binds to hemoglobin, reducing the amount of oxygen that reaches the bodys' tissues and organs. 
+   </font> </p>
+    <p>
+     <a class="btn" data-toggle="modal" data-target="#COModal" href="#">Learn More</a>
+   </p>
+ </div>
+</div>
+<!-- CO Modal -->
+<div class="modal fade" id="COModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">Carbon Monoxide</h4>
+      </div>
+      <div class="modal-body">
+        <p>
+          What is it?  Carbon monoxide (CO) is an odorless, colorless, and toxic gas that is often a byproduct of combustion in gas ranges, automobiles, or unvented kerosene heaters. CO can also be an important indoor pollution concern, because it is often produced from indoor heaters, chimneys and furnaces, fireplaces, and water heaters. 
+        </p>
+        <p>
+          Why does it matter?  Because carbon monoxide is difficult to detect and might be a critical indoor pollution problem, our network is especially useful for CO detection. At low concentrations, it can cause mild chest pain in people with heart problems or fatigue in healthy people. CO can be fatal at high concentrations, because of its ability to limit oxygen intake in blood. Other potential issues include angina, impaired vision, and reduced brain function. 
+        </p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- NITRIC OXIDE -->
+<div class="col-sm-6 col-md-4">
+ <div class="thumbnail">
+   <img src="NO.png">
+   <h3>Nitric Oxide</h3>
+   <p>
+   <font size="2"> Nitric Oxide is colorless and odorless, and of the nitrogen oxides (NOx) emitted, NO is the primary pollutant. While NO is non-toxic by itself, it quickly converts to NO2 in the air. 
+  </font></p>
+  <p>
+   <a class="btn" data-toggle="modal" data-target="#NOModal" href="#">Learn More</a>
+ </p>
+</div>
+</div>
+<!-- NO Modal -->
+<div class="modal fade" id="NOModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">Nitric Oxide</h4>
+      </div>
+      <div class="modal-body">
+        <p>
+          What is it?  Nitric oxide (NO) is a byproduct of combustion of air in manmade systems such as automobile engines and fossil fuel power plants, or in natural processes such as thunderstorms. NO is a free radical (it has one unpaired electron), which means that it is highly unstable and likely rapidly reacts with surrounding gases. Usually, NO converts into nitrogen dioxide (NO2), which will enter a complex chain of reactions that may produce ozone or acid rain. 
+        </p>
+        <p>
+          Why does it matter? NO is not included in the Air Quality Index (AQI) produced by the Environmental Protection Agency. However, it is an important precursor to nitrogen dioxide (NO2), which is known to have detrimental effects on human respiratory health. NO2 can also likely produce ozone or acid rain.
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- NITROGEN DIOXIDE -->
+<div class="col-sm-6 col-md-4">
+ <div class="thumbnail">
+   <img src="NO2.png">
+   <h3>Nitrogen Dioxide</h3>
+   <p>
+  <font size="2">  Nitrogen Dioxide (NO<sub>2</sub>) is strongly tied to the presence of O3 and particulate matter. The largest sources of NO2 are combustion processes, such as heating and power generation. Long-term exposure to NO2 has been linked to adverse respiratory effects. 
+ </font> </p>
+  <p>
+   <a class="btn" data-toggle="modal" data-target="#NO2Modal" href="#">Learn More</a>
+  </p>
+</div>
+</div>
+<!-- NO2 Modal -->
+<div class="modal fade" id="NO2Modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">Nitrogen Dioxide</h4>
+      </div>
+      <div class="modal-body">
+        <p>
+          What is it? Nitrogen dioxide (NO<sub>2</sub>) is a suffocating, brownish gas that belongs to a family of highly reactive species known as nitrogen oxides (NOx). NO2 is usually produced after nitric oxide, which is produced from automobiles and industrial processes, rapidly decomposes to NO2. The NOx gases form when fuel is burned at high temperatures  as a result of motor vehicle exhaust, electric utilities, and industrial boilers. NO2 can react with other gases in the atmosphere to form nitric acid, which leads to acid rain, and ozone.
+        </p>
+        <p> 
+          Why does it matter?  At moderate levels, NO2 can cause lung irritation and make one more susceptible to respiratory illnesses such as influenza. Nitrogen dioxide, when present for prolonged time periods, can make children more susceptible to acute respiratory illness. NO2 can increase acid rain and formation of zone. Finally, NO2 can result in eutrophication in waters, which decreases water oxygen and threatens the livelihood of aquatic wildlife.
+        </p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+<br><br><br>
+
+<!-- line divider -->
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break-border"></div>
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break"></div>
+	
+<!-- CALIBRATION SECTION -->
+
+<div class="row featurette" style="padding-left: 20px; padding-right: 20px; padding-top: 110px">
+  <h2 class="featurette-heading">
+    <font color="#1560ac">How have we calibrated our sensors?</font> 
+  </h2>
+  <br>
+
+  <p class="lead">
+    Every node is outfitted with 4 electrochemical sensors, which output millivolt readings. The goal of the calibration process was to provide a precise conversion of the electrochemical sensor millivolt readings to a parts per billion unit of measurement for the individual gas species. Using an airtight metal chamber which fit two nodes at a time, we created a system where air was pumped in through tubing to the nodes and out through tubing to the equipment, so that both the nodes and the equipment could measure the same gas pulses. Using a linear regression, the relationship between the millivolt readings from the sensors and the ppb concentrations from the instruments created. 
+  </p>
+</div>
+
+<!-- line divider -->
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break-border"></div>
+    <div class="col-md-12 line-break"></div>
+    <div class="col-md-12 line-break"></div>
+
+      <!-- CONTACT SECTION -->
+
+<div class="row featurette" style="padding-left: 2%; padding-right: 2%">
+  <h2 class="featurette-heading">
+    <font color="#000">Contact Us</font> 
+    <span class="text-muted"></span>
+  </h2>
+  <br>
+  <p class="lead">
+           Please contact us at <a href="http://iitism.ac.in/">IIT-ISM Dhanbad</a> with any questions. 
+  </p>
+</div>
+
+<div class="col-md-12 line-break"></div>
+<div class="col-md-12 line-break-border"></div>
+<div class="col-md-12 line-break"></div>
+
+</div>
+<!--</div>
+</div>
+</div>  -->
+
+</div>
+</div>
+</body>
 </html>
