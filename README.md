@@ -1,16 +1,8 @@
 <html lang="en">
 <head>
-  <title>project work</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-  <link href="HowItWorks.css" rel="stylesheet">
-    <!--IIT Logo Style Link-->
-    <link rel="stylesheet" href="Logo.css">
+<title>file</title> 
 </head>
+<h1>pollution</h1>
 <body>
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
  <div class="container">
